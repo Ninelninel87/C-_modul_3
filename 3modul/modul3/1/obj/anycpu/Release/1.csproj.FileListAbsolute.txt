@@ -1,0 +1,3 @@
+/Users/severex_19_11_19/Desktop/Unity/C#_projects/3modul/modul3/1/bin/Release/1.exe
+/Users/severex_19_11_19/Desktop/Unity/C#_projects/3modul/modul3/1/obj/anycpu/Release/1.csproj.CoreCompileInputs.cache
+/Users/severex_19_11_19/Desktop/Unity/C#_projects/3modul/modul3/1/obj/anycpu/Release/1.exe

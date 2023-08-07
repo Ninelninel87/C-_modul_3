@@ -1,0 +1,6 @@
+/Users/severex_19_11_19/Desktop/Unity/C#_projects/3modul/modul3/5/obj/anycpu/Debug/5.csproj.AssemblyReference.cache
+/Users/severex_19_11_19/Desktop/Unity/C#_projects/3modul/modul3/5/obj/anycpu/Debug/5.csproj.CoreCompileInputs.cache
+/Users/severex_19_11_19/Desktop/Unity/C#_projects/3modul/modul3/5/bin/Debug/5.exe
+/Users/severex_19_11_19/Desktop/Unity/C#_projects/3modul/modul3/5/bin/Debug/5.pdb
+/Users/severex_19_11_19/Desktop/Unity/C#_projects/3modul/modul3/5/obj/anycpu/Debug/5.exe
+/Users/severex_19_11_19/Desktop/Unity/C#_projects/3modul/modul3/5/obj/anycpu/Debug/5.pdb
